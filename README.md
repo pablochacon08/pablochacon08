@@ -1,3 +1,6 @@
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0066FF&height=220&section=header&text=Pablo%20Chacón&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+</p>
 <h1 align="center">👨‍💻 Pablo Chacón</h1>
 
 <h3 align="center">
@@ -12,7 +15,11 @@ Estudiante de Ingeniería en Computación | ESPOL
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Bienvenido+a+mi+perfil+de+GitHub;Java+%7C+Python+%7C+SQL+%7C+MySQL;Backend+Developer+in+progress;Siempre+aprendiendo+nuevas+tecnologias" />
 </p>
 
----
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=pablochacon08&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+<img src="https://user-images.githubusercontent.com/74038190/212750614-1b8f4d68-8f54-4e6d-b5c5-8f2d7e4c1d5e.gif" width="100%">
 
 <h2>📌 Contenido</h2>
 
@@ -28,6 +35,10 @@ Estudiante de Ingeniería en Computación | ESPOL
 ---
 
 <h2 id="sobre-mi">🙋 Sobre mí</h2>
+
+<p align="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
+</p>
 
 <p>
 Soy estudiante de <b>Ingeniería en Computación en ESPOL</b>.
@@ -68,7 +79,7 @@ Actualmente desarrollo proyectos relacionados con:
 <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white">
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212750614-1b8f4d68-8f54-4e6d-b5c5-8f2d7e4c1d5e.gif" width="100%">
 
 <h2 id="proyectos">📂 Proyectos</h2>
 
@@ -178,6 +189,10 @@ Java
 <h2 id="estadisticas">📊 Estadísticas</h2>
 
 <p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=pablochacon08&theme=tokyonight"/>
+</p>
+
+<p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pablochacon08&show_icons=true&theme=tokyonight"/>
 </p>
 
@@ -198,7 +213,7 @@ Java
   <li>⚡ Arquitectura y optimización de software</li>
 </ul>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212750614-1b8f4d68-8f54-4e6d-b5c5-8f2d7e4c1d5e.gif" width="100%">
 
 <h2 id="contacto">📫 Contacto</h2>
 
