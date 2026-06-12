@@ -258,12 +258,12 @@ Módulos de eventos, noticias y networking diseñados bajo principios de **Inter
 <img src="https://capsule-render.vercel.app/api?type=rect&color=111D2B&height=60&text=%F0%9F%93%AB%20%20Contacto&fontSize=22&fontColor=ffffff&textBg=false" width="100%"/>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1826&height=4" width="100%"/>
 
-| | |
+| Contacto | Información |
 |:---|:---|
-| 📧 &nbsp;**Correo institucional** | pachacon@espol.edu.ec |
-| 💼 &nbsp;**LinkedIn** | [Pablo Andrés Chacón Campoverde](https://www.linkedin.com/in/pablo-andr%C3%A9s-chac%C3%B3n-campoverde-30b112297/) |
-| 🌐 &nbsp;**Portfolio** | [pablochacon08.github.io/curriculum](https://pablochacon08.github.io/curriculum/) |
-| 📍 &nbsp;**Ubicación** | Guayaquil, Ecuador |
+| 📧 **Correo institucional** | pachacon@espol.edu.ec |
+| 💼 **LinkedIn** | [Pablo Andrés Chacón Campoverde](...) |
+| 🌐 **Portfolio** | [pablochacon08.github.io/curriculum](...) |
+| 📍 **Ubicación** | Guayaquil, Ecuador |
 
 <p align="center">
   <i>✨ &nbsp;Gracias por visitar mi perfil &nbsp;·&nbsp; No olvides revisar mis proyectos &nbsp;✨</i>
