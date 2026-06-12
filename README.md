@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,30:1a6b3c,60:0066FF,100:00C9FF&height=260&section=header&text=Pablo%20Chacón&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineering%20%C2%B7%20ESPOL%20%C2%B7%20Guayaquil&descAlignY=57&descSize=19&descColor=d0f0ff"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,30:1a3a5c,60:0066FF,100:00C9FF&height=260&section=header&text=Pablo%20Chacón&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineering%20%C2%B7%20ESPOL%20%C2%B7%20Guayaquil&descAlignY=57&descSize=19&descColor=d0f0ff" width="100%"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0F1923&height=8" width="100%"/>
 
 <p align="center">
   <a href="mailto:pachacon@espol.edu.ec">
@@ -24,11 +24,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00C9FF&center=true&vCenter=true&width=720&lines=Estudiante+de+Ingenier%C3%ADa+en+Computaci%C3%B3n+%40+ESPOL;Java+%7C+Python+%7C+HTML5+%7C+CSS3+%7C+SQL+%7C+Git;Backend+%E2%80%A2+Mobile+%E2%80%A2+Web+Developer;Android+%7C+Figma+%7C+UX%2FUI+Design;Construyendo+soluciones+reales+%F0%9F%9A%80"/>
 </p>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0F1923&height=8" width="100%"/>
 
----
+<!--- ═══════════════ SOBRE MÍ ═══════════════ --->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=111D2B&height=60&text=%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F%20%20Sobre%20m%C3%AD&fontSize=22&fontColor=ffffff&textBg=false" width="100%"/>
 
-<h2>🙋‍♂️ &nbsp;Sobre mí</h2>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1826&height=8" width="100%"/>
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="290"/>
 
@@ -38,23 +39,19 @@ Soy estudiante de **Ingeniería en Computación** en la **Escuela Superior Polit
 
 **Lo que me define como desarrollador:**
 
-🏗️ &nbsp;Sistemas con **arquitectura limpia y orientada a objetos**
-&nbsp;
-🗄️ &nbsp;**Bases de datos relacionales** normalizadas y eficientes
-&nbsp;
-📱 &nbsp;**Aplicaciones Android** nativas funcionales
-&nbsp;
-🌐 &nbsp;**Sitios web** con HTML5, CSS3, Flexbox y Grid
-&nbsp;
-🎨 &nbsp;Prototipado **UX/UI** con criterio en Figma
-&nbsp;
-🤝 &nbsp;Trabajo colaborativo con **Git** y control de versiones
+🏗️ &nbsp;Sistemas con **arquitectura limpia y orientada a objetos**  
+🗄️ &nbsp;**Bases de datos relacionales** normalizadas y eficientes  
+📱 &nbsp;**Aplicaciones Android** nativas funcionales  
+🌐 &nbsp;**Sitios web** con HTML5, CSS3, Flexbox y Grid  
+🎨 &nbsp;Prototipado **UX/UI** con criterio en Figma  
+🤝 &nbsp;Trabajo colaborativo con **Git** y control de versiones  
 
 <br clear="right"/>
 
----
+<!--- ═══════════════ TECNOLOGÍAS ═══════════════ --->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=111D2B&height=60&text=%F0%9F%9B%A0%EF%B8%8F%20%20Tecnolog%C3%ADas&fontSize=22&fontColor=ffffff&textBg=false" width="100%"/>
 
-<h2>🛠️ &nbsp;Tecnologías</h2>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1826&height=8" width="100%"/>
 
 <h3>💻 &nbsp;Lenguajes de programación</h3>
 
@@ -98,17 +95,18 @@ Soy estudiante de **Ingeniería en Computación** en la **Escuela Superior Polit
 |:---:|:---:|:---|
 | <img width="18" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/> | **MySQL** | Diseño, normalización e implementación de bases de datos relacionales con consultas optimizadas e integridad referencial. |
 | <img width="18" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/> | **Git / GitHub** | Control de versiones en todos mis proyectos: ramas, commits descriptivos, resolución de conflictos y despliegue con GitHub Pages. |
-| <img width="18" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/> | **CSS Flexbox** | Navegación sticky, header del CV y distribución interna de componentes con alineación precisa en el **CV Digital**. |
-| <img width="18" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/> | **CSS Grid** | Layout de dos columnas, grilla de proyectos, sección de referencias en tres columnas y área multimedia responsiva. |
+| <img width="18" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/> | **CSS Flexbox** | Navegación sticky, header del CV y distribución interna de componentes con alineación precisa. |
+| <img width="18" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/> | **CSS Grid** | Layout de dos columnas, grilla de proyectos, referencias en tres columnas y área multimedia responsiva. |
 | <img width="18" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"/> | **Android Studio** | Entorno de desarrollo para apps Android nativas: **EcoTrack** y **Administración de Urbanizaciones**. |
 | <img width="18" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/> | **Figma** | Prototipado de alta fidelidad aplicando principios de IHC para la **App Móvil de Exalumnos ESPOL**. |
 | &nbsp; | **GitHub Pages** | Despliegue continuo del CV digital como sitio web estático accesible públicamente desde cualquier dispositivo. |
 
 <br/>
 
----
+<!--- ═══════════════ PROYECTOS ═══════════════ --->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=111D2B&height=60&text=%F0%9F%93%82%20%20Proyectos&fontSize=22&fontColor=ffffff&textBg=false" width="100%"/>
 
-<h2>📂 &nbsp;Proyectos</h2>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1826&height=8" width="100%"/>
 
 <br/>
 
@@ -118,7 +116,7 @@ Soy estudiante de **Ingeniería en Computación** en la **Escuela Superior Polit
 
 > &nbsp;Sitio web personal construido desde cero como portafolio profesional online.
 
-Incluye secciones de experiencia, formación, proyectos, referencias y formulario de contacto. Diseñado con layout de dos columnas mediante **CSS Grid**, navegación sticky con **Flexbox**, animaciones de entrada `fadeInUp` y diseño completamente responsivo con media queries.
+Incluye secciones de experiencia, formación, proyectos, referencias y formulario de contacto. Layout de dos columnas con **CSS Grid**, navegación sticky con **Flexbox**, animaciones `fadeInUp` y diseño completamente responsivo.
 
 **Tecnologías:** &nbsp;
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -127,11 +125,13 @@ Incluye secciones de experiencia, formación, proyectos, referencias y formulari
 ![Grid](https://img.shields.io/badge/Grid-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-181717?style=flat-square&logo=githubpages&logoColor=white)
 
-**Estado:** &nbsp; ✅ Publicado — [pablochacon08.github.io/curriculum](https://pablochacon08.github.io/curriculum/)
+**Estado:** &nbsp;✅ Publicado — [pablochacon08.github.io/curriculum](https://pablochacon08.github.io/curriculum/)
 
 <br clear="right"/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1826&height=4" width="100%"/>
+
+<br/>
 
 <h3>♻️ &nbsp;<a href="https://github.com/pablochacon08/EcoTrack">EcoTrack</a></h3>
 
@@ -145,11 +145,13 @@ Permite registrar, clasificar, ordenar y despachar residuos mediante estructuras
 ![Java](https://img.shields.io/badge/Java-F89820?style=flat-square&logo=openjdk&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
 
-**Estado:** &nbsp; 📚 Académico
+**Estado:** &nbsp;📚 Académico
 
 <br clear="right"/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1826&height=4" width="100%"/>
+
+<br/>
 
 <h3>🎮 &nbsp;<a href="https://github.com/pablochacon08/Servicio-Renta-de-Videojuegos-y-Cuentas-PS-Plus-">Sistema de Renta de Videojuegos y PS Plus</a></h3>
 
@@ -164,11 +166,13 @@ Gestiona clientes, rentas, empleados, transacciones y multas con operaciones **C
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-00758F?style=flat-square&logo=mysql&logoColor=white)
 
-**Estado:** &nbsp; 📚 Académico
+**Estado:** &nbsp;📚 Académico
 
 <br clear="right"/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1826&height=4" width="100%"/>
+
+<br/>
 
 <h3>🏘️ &nbsp;<a href="https://github.com/pablochacon08/Administracion-de-Urbanizaciones">Administración de Urbanizaciones</a></h3>
 
@@ -182,11 +186,13 @@ Controla residentes, viviendas, eventos y acceso vehicular. Persistencia de dato
 ![Java](https://img.shields.io/badge/Java-F89820?style=flat-square&logo=openjdk&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
 
-**Estado:** &nbsp; 📚 Académico
+**Estado:** &nbsp;📚 Académico
 
 <br clear="right"/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1826&height=4" width="100%"/>
+
+<br/>
 
 <h3>🎓 &nbsp;<a href="https://www.figma.com/proto/vKVLdQJK4qP8bE2wdEz9tG/Prototipo-completo?node-id=225-1437&starting-point-node-id=157%3A660&t=FNskkYNHAGNW1f64-1">App Móvil para Exalumnos ESPOL</a></h3>
 
@@ -200,13 +206,16 @@ Módulos de eventos, noticias y networking diseñados bajo principios de **Inter
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![UX/UI](https://img.shields.io/badge/UX%2FUI%20Design-00C9FF?style=flat-square)
 
-**Estado:** &nbsp; 🎨 Prototipo
+**Estado:** &nbsp;🎨 Prototipo
 
 <br clear="right"/>
 
----
+<br/>
 
-<h2>🎯 &nbsp;Intereses</h2>
+<!--- ═══════════════ INTERESES ═══════════════ --->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=111D2B&height=60&text=%F0%9F%8E%AF%20%20Intereses&fontSize=22&fontColor=ffffff&textBg=false" width="100%"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1826&height=8" width="100%"/>
 
 <p>
   <img src="https://img.shields.io/badge/Backend%20Development-F89820?style=flat-square"/>
@@ -218,9 +227,12 @@ Módulos de eventos, noticias y networking diseñados bajo principios de **Inter
   <img src="https://img.shields.io/badge/Software%20Architecture-007ACC?style=flat-square"/>
 </p>
 
----
+<br/>
 
-<h2>💬 &nbsp;Conclusiones</h2>
+<!--- ═══════════════ CONCLUSIONES ═══════════════ --->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=111D2B&height=60&text=%F0%9F%92%AC%20%20Conclusiones&fontSize=22&fontColor=ffffff&textBg=false" width="100%"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1826&height=8" width="100%"/>
 
 <br/>
 
@@ -240,9 +252,12 @@ Para garantizar calidad y coherencia es necesario revisar críticamente el conte
 
 La transparencia es el principio fundamental: ser honesto sobre el uso de IA y no presentar contenido generado como propiedad intelectual propia sin haber contribuido con criterio y revisión. En equipo, la documentación debe representar con precisión el trabajo colectivo. Usar IA con responsabilidad significa emplearla para mejorar la expresión de ideas genuinas, no para fabricar méritos que no se poseen.
 
----
+<br/>
 
-<h2>📫 &nbsp;Contacto</h2>
+<!--- ═══════════════ CONTACTO ═══════════════ --->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=111D2B&height=60&text=%F0%9F%93%AB%20%20Contacto&fontSize=22&fontColor=ffffff&textBg=false" width="100%"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1826&height=8" width="100%"/>
 
 <br/>
 
@@ -255,12 +270,8 @@ La transparencia es el principio fundamental: ser honesto sobre el uso de IA y n
 
 <br/>
 
----
-
 <p align="center">
   <i>✨ &nbsp;Gracias por visitar mi perfil &nbsp;·&nbsp; No olvides revisar mis proyectos &nbsp;✨</i>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,40:0066FF,70:1a6b3c,100:0F2027&height=140&section=footer"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,40:0066FF,70:1a3a5c,100:0F2027&height=140&section=footer" width="100%"/>
