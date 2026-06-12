@@ -227,21 +227,30 @@ Módulos de eventos, noticias y networking diseñados bajo principios de **Inter
 
 ---
 
-<!-- ═══════════════ CONCLUSIONES ═══════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=111D2B&height=60&text=%F0%9F%92%AC%20%20Conclusiones&fontSize=22&fontColor=ffffff&textBg=false" width="100%"/>
+<!-- ═══════════════ OBJETIVOS PROFESIONALES ═══════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=111D2B&height=60&text=%F0%9F%9A%80%20%20Objetivos%20Profesionales&fontSize=22&fontColor=ffffff&textBg=false" width="100%"/>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1826&height=4" width="100%"/>
 
-#### ¿De qué manera el uso de IA generativa para escribir documentos en Markdown puede enriquecer tu comprensión sobre la documentación técnica, y en qué casos podría limitar tu aprendizaje?
+*Mi meta es desarrollarme como ingeniero de software contribuyendo a proyectos que generen impacto real, combinando buenas prácticas de desarrollo con trabajo en equipo efectivo.*
 
-El uso de IA generativa puede acelerar el aprendizaje al exponer estructuras bien organizadas y buenas prácticas que de otra forma tomarían más tiempo descubrir. Sin embargo, puede limitar el aprendizaje si se usa sin reflexión: copiar contenido generado sin comprenderlo impide desarrollar el criterio propio necesario para documentar con precisión en entornos reales de trabajo colaborativo.
+### 🎯 Corto plazo
 
-#### Al generar documentación técnica con IA en Markdown, ¿cómo puedes asegurar la calidad, coherencia y autenticidad del contenido para que sea útil en un proyecto colaborativo?
+- [ ] Dominar desarrollo backend con frameworks modernos (Spring Boot, Django)
+- [ ] Integrar APIs REST en proyectos web y móviles
+- [ ] Completar mi formación en Ingeniería en Computación en ESPOL
+- [ ] Obtener experiencia en prácticas preprofesionales
 
-Para garantizar calidad y coherencia es necesario revisar críticamente el contenido generado y validar que refleje fielmente el trabajo realizado. La autenticidad se asegura cuando el desarrollador aporta los detalles técnicos concretos — decisiones de diseño, tecnologías elegidas, problemas resueltos — y usa la IA como herramienta de redacción, no como fuente de información técnica.
+### 🔭 Mediano plazo
 
-#### ¿Qué actitudes y principios éticos deberían guiar el uso de IA generativa en la creación de documentación técnica para mantener tu integridad como desarrollador?
+- [ ] Especializarme en arquitectura de software y sistemas distribuidos
+- [ ] Contribuir a proyectos open source
+- [ ] Desarrollar aplicaciones full stack con impacto social o empresarial
 
-La transparencia es el principio fundamental: ser honesto sobre el uso de IA y no presentar contenido generado como propiedad intelectual propia sin haber contribuido con criterio y revisión. En equipo, la documentación debe representar con precisión el trabajo colectivo. Usar IA con responsabilidad significa emplearla para mejorar la expresión de ideas genuinas, no para fabricar méritos que no se poseen.
+### 🌟 Largo plazo
+
+- [ ] Liderar equipos de desarrollo de software
+- [ ] Construir soluciones tecnológicas que resuelvan problemas reales en Latinoamérica
+- [ ] Explorar el campo de la Inteligencia Artificial aplicada al desarrollo de software
 
 ---
 
