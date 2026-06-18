@@ -262,7 +262,7 @@ Módulos de eventos, noticias y networking diseñados bajo principios de **Inter
 |:---|:---|
 | 📧 **Correo institucional** | pachacon@espol.edu.ec |
 | 💼 **LinkedIn** | [Pablo Andrés Chacón Campoverde](https://www.linkedin.com/in/pablo-andr%C3%A9s-chac%C3%B3n-campoverde-30b112297/) |
-| 🌐 **Portfolio** | [pablochacon08.github.io/curriculum](https://pablochacon08.github.io curriculum/) |
+| 🌐 **Portfolio** | [CV Digital](https://pablochacon08.github.io/curriculum/) |
 | 📍 **Ubicación** | Guayaquil, Ecuador |
 
 <p align="center">
